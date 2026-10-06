@@ -51,9 +51,3 @@ If a semantic match is found (Cache Hit), it returns the answer in milliseconds.
 
 ---
 
-## 🚀 Installation & Setup
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/yourusername/SemantiCache.git](https://github.com/yourusername/SemantiCache.git)
-cd SemantiCache
